@@ -1,7 +1,7 @@
 - tag: releases
   label: Новые релизы
   icon: rocket
-  color: $warning
+  color: orange
 - tag: improvements
   label: Улучшения
   icon: stars
