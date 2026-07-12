@@ -5,6 +5,10 @@
 - tag: improvements
   label: Улучшения
   icon: stars
-- tag: ispravleniya
+- tag: fixes
   label: Исправления
   icon: screwdriver-wrench
+- tag: security
+  label: Безопасность
+  icon: shield
+  color: yellow
