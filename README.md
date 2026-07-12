@@ -1,4 +1,4 @@
-# Обновления iEXExchanger
+# 2026
 
 {% updates format="full" %}
 
