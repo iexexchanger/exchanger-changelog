@@ -1,0 +1,10 @@
+- tag: releases
+  label: Новые релизы
+  icon: rocket
+  color: $warning
+- tag: improvements
+  label: Улучшения
+  icon: stars
+- tag: ispravleniya
+  label: Исправления
+  icon: screwdriver-wrench
